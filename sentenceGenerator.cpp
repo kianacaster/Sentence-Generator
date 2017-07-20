@@ -2,6 +2,7 @@
 #include <vector>
 #include <string>
 using namespace std;
+
 string generateSentence()
 {
     srand(time(0));
