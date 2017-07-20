@@ -5,8 +5,8 @@ using namespace std;
 string generateSentence()
 {
     srand(time(0));
-    const char* nouns[10] = {"cat", "dog", "table", "car", "gun", "person", "man", "woman", "TV", "meth lab"};
-    const char* verbs[10] = {"laughed", "ran", "ate", "cooked", "shot", "fought", "walked", "burned", "entered", "left"};
+    const char* nouns[10] = {"cat", "dog", "table", "car", "gun", "person", "man", "woman", "TV", "meth lab"}; 
+    const char* verbs[10] = {"laughed", "ran", "ate", "cooked", "shot", "fought", "walked", "burned", "entered", "left"}; 
     const char* adjectives[10] = {"big","stupid","hard","dangerous","nice","threatening","ignorant","short","loud","boring"};
     const char* adverbs[10] = {"slowly","strangely","randomly","unexpectedly","happily","seductively","amazingly","quickly","arrogently","violently"};
     
